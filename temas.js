@@ -37,13 +37,19 @@ window.UO_TEMAS = [
     resumen: "Registro organizado, oportuno y confidencial de la información y la atención brindada.",
     conceptos: ["Continuidad de la atención", "Registro objetivo y cronológico", "Confidencialidad", "Responsabilidad documental"],
     objetivo: "Reconocer la función del expediente clínico y aplicar principios básicos de privacidad y documentación responsable.",
-    introduccion: "El expediente clínico reúne información relacionada con la atención de salud. Su documentación facilita la comunicación y continuidad del cuidado, y debe proteger la privacidad y cumplir la normativa local vigente.",
+    fundamento:"El expediente clínico permite integrar la información del paciente, facilitar la comunicación entre profesionales, dar seguimiento a su evolución y respaldar las decisiones relacionadas con su atención. Su elaboración debe cumplir la normativa aplicable y las políticas institucionales.",
+    normativa: ["NOM-004-SSA3-2012, Del expediente clínico, considerando su vigencia y las disposiciones aplicables.", "Políticas institucionales de documentación, acceso, conservación y protección de datos personales."  ],
+    elementos: ["Historia clínica", "Notas médicas","Notas de enfermería","Registros de signos vitales", "Indicaciones médicas y registros de su cumplimiento", "Resultados de laboratorio y estudios auxiliares", "Consentimientos informados y otros documentos aplicables" ],
+    tipos_registro: [ {tipo: "Datos subjetivos", descripcion:"Información expresada por el paciente, como dolor, náuseas o mareo."},{ tipo: "Datos objetivos",descripcion: "Hallazgos observables o medibles, como temperatura, frecuencia cardiaca o características de una herida."}, { tipo: "Intervenciones",descripcion:"Cuidados y procedimientos efectivamente realizados, conforme a las indicaciones y competencias profesionales."}, {tipo: "Respuesta del paciente", descripcion: "Cambios observados después de la intervención o respuesta comunicada por el paciente."],
     materiales: ["Formato docente de práctica sin identificadores reales", "Ejemplo de registro aprobado para estudio", "Normativa y política institucional aplicable"],
     pasos: ["Identifica propósito, formato y reglas locales del registro.", "Describe observaciones relevantes con lenguaje claro, preciso y objetivo.", "Ordena las anotaciones según la secuencia y los campos establecidos.", "Revisa la legibilidad y completa los datos que exige el formato académico.", "Protege el documento y comunica la información solo por canales autorizados."],
     precauciones: ["No utilices datos personales reales en ejercicios académicos.", "No alteres ni compartas registros sin autorización.", "Sigue las reglas locales para correcciones y firmas."],
     seguridad: ["Preserva confidencialidad y acceso autorizado.", "Distingue lo observado de lo referido y evita juicios de valor.", "Documenta en el momento establecido por la política institucional."],
     errores: ["Usar abreviaturas no autorizadas.", "Dejar campos incompletos, registrar opiniones como hechos o documentar antes de realizar una acción."],
-    evidencia: "Redacta un ejemplo académico anonimizado con datos objetivos y señala cómo protegerías la confidencialidad."
+    caso_clinico: {
+    titulo: "Registro de una valoración de enfermería",
+    escenario:"Caso ficticio: durante una valoración, un paciente refiere dolor en una escala de 0 a 10. El estudiante debe registrar la información referida, los hallazgos objetivos disponibles, las intervenciones realizadas y la respuesta posterior.",
+    actividad:"Elabora una nota de enfermería utilizando únicamente los datos proporcionados. No inventes signos vitales, intervenciones ni resultados."
   },
   {
     id: "signos-vitales",
