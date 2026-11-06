@@ -39,8 +39,7 @@ window.UO_TEMAS = [
     objetivo: "Reconocer la función del expediente clínico y aplicar principios básicos de privacidad y documentación responsable y registro de enfermeria.",
     introduccion: "El expediente clínico reúne información relacionada con la atención de salud. Su documentación facilita la comunicación y continuidad del cuidado, y debe proteger la privacidad y cumplir la normativa local vigente.",
     Normativa : ["NOM-004-SSA3-2012 , del expediente clínico considerando suu vigencia y las disposiciones aplicables"] ,
-    Elementos:  ["Historia clincica,Notas médicas , notas de enfermería , registros de signos vitalesn, indicaciones médicas y registrtos de su cumplimiento. Consentimientos informados
-     "]
+    Elementos:  ["Historia clincica,Notas médicas , notas de enfermería , registros de signos vitalesn, indicaciones médicas y registrtos de su cumplimiento. Consentimientos informados "]
     Materiales: ["Formato docente de práctica sin identificadores reales", "Ejemplo de registro aprobado para estudio", "Normativa y política institucional aplicable"],
     pasos: ["Identifica propósito, formato y reglas locales del registro.", "Describe observaciones relevantes con lenguaje claro, preciso y objetivo.", "Ordena las anotaciones según la secuencia y los campos establecidos.", "Revisa la legibilidad y completa los datos que exige el formato académico.", "Protege el documento y comunica la información solo por canales autorizados."],
     precauciones: ["No utilices datos personales reales en ejercicios académicos.", "No alteres ni compartas registros sin autorización.", "Sigue las reglas locales para correcciones y firmas."],
